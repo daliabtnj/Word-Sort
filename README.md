@@ -5,6 +5,7 @@ A simple C program to read words from a file, filter them based on word type, so
 #### Features
 - Read words from a file into an array of strings, 
 - Filter words based on word type (alphabetical, alphanumeric, or all characters)
+- Ignore characters of invalid word type and stores only valid characters from the word
 - Sort words in ascending or descending order
 - Display sorted words with specified formatting
 
